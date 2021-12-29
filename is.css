@@ -1,0 +1,53 @@
+
+		div.mybody
+		{
+			width: 100%;
+			background-color: orange;
+		    position: absolute;
+			height: 1600px;
+			margin-left: 0px;
+			margin-top: 0px;
+		}
+		
+		
+		div.z
+		{
+		    width: 27%;
+			background-color: white;
+			position: absolute;
+			height: 178px;
+			margin-top:-180px;
+			margin-left: 48px;
+		}
+				
+			ul
+				{
+					background-color: green;
+					list-style-type: none;
+					margin: 0px;
+					padding: 0px;
+					overflow: hidden;
+					margin-top: 200px;
+					margin-left:0px;
+				}
+
+				li
+				{
+					float: left;
+					border-right: 2px solid red;
+
+				}
+				li a
+				{
+					color: white;
+					display: block;
+					padding: 15px 12px;
+					text-align: center;
+					text-decoration: none;
+				}
+				li a:hover
+				{
+					background-color: red;
+					color: white;
+				}
+	
